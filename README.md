@@ -1,5 +1,5 @@
 # Leetcode
-Solutions in different Branches for =
-Daily challenges
-Introduction to pandas
-Easy 
+Solutions in different Branches for = <br />
+Daily challenges <br />
+Introduction to pandas <br />
+Easy <br />
