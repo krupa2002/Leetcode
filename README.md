@@ -1,6 +1,6 @@
 # Leetcode
-Solution for - 
-Daily  challenges leetcode 
-Introduction to pandas
-Easy level
+Solution for - <br />
+Daily  challenges leetcode <br />
+Introduction to pandas <br />
+Easy level <br />
 
