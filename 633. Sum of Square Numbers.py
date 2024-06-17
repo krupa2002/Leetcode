@@ -1,0 +1,18 @@
+class Solution:
+    def judgeSquareSum(self, c: int) -> bool:
+        if c < 0:
+            return False  # Since c is non-negative as per constraints, this is just a safeguard.
+    
+        a = 0
+        b = int(math.sqrt(c))
+    
+        while a <= b:
+            sum_of_squares = a * a + b * b
+            if sum_of_squares == c:
+                return True
+            elif sum_of_squares < c:
+                a += 1
+            else:
+                b -= 1
+    
+        return False
